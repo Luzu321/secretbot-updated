@@ -1,0 +1,20 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "a bot for minbucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minute",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "discord-eco": "0.0.10",
+    "discord.js": "^11.3.2",
+    "main.js": "0.0.1",
+    "ms": "^2.1.1",
+    "snekfetch": "^3.6.4",
+    "urban": "^0.3.1"
+  }
+}
